@@ -4,7 +4,7 @@
 
 [project]
 name = "stencil-core-feedstock"
-version = "3.45.0"
+version = "3.45.2"
 description = "Pixi configuration for conda-forge/stencil-core-feedstock"
 authors = ["@conda-forge/stencil-core"]
 channels = ["conda-forge"]

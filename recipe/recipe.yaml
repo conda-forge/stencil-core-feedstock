@@ -1,5 +1,5 @@
 context:
-  version: "4.40.0"
+  version: "4.40.1"
 
 package:
   name: stencil-core
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://registry.npmjs.org/@stencil/core/-/core-${{ version }}.tgz
-  sha256: 0424e7636c4cb9fbbe6018b05c5c4cce228f90f0a12cdbbdd67d0d159bdfef46
+  sha256: c133fbdc9eb08a51f4e8b7e24a0599b84f0e514dbaadacba313f9d607f14f242
 
 build:
   number: 0

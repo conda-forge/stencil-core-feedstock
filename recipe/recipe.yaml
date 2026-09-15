@@ -25,7 +25,7 @@ tests:
 
 about:
   license: MIT
-  license_file: LICENSE.md
+  license_file: LICENSE
   summary: A Compiler for Web Components and Progressive Web Apps
   homepage: https://stenciljs.com/
   repository: https://github.com/ionic-team/stencil
